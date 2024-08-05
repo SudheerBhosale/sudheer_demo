@@ -1,7 +1,7 @@
 let firstName = (name)=>{
     console.log(name)
     console.log("hi")
-    console.log("hello sudheer bhosale")
+    console.log("hello finish")
 }
 
 firstName("sudheer")
